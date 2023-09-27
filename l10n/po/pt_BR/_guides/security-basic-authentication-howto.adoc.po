@@ -25,7 +25,7 @@ msgstr "Ativar a autenticação básica"
 #. type: Plain text
 #: upstream/_guides/security-basic-authentication-howto.adoc:8
 msgid "Enable xref:security-basic-authentication.adoc[Basic authentication] for your Quarkus project and allow users to authenticate with a username and password."
-msgstr "Active  link:security-basic-authentication.html[a autenticação básica] para o seu projeto Quarkus e permita que os usuários se autentiquem com um use rname e um password."
+msgstr "Ative link:security-basic-authentication.html[a autenticação básica] para o seu projeto Quarkus e permita que os usuários se autentiquem com um username e um password."
 
 #. type: Title ==
 #: upstream/_guides/security-basic-authentication-howto.adoc:9
@@ -36,7 +36,7 @@ msgstr "Pré-requisitos"
 #. type: Plain text
 #: upstream/_guides/security-basic-authentication-howto.adoc:12
 msgid "You have installed at least one extension that provides an `IdentityProvider` based on username and password, such as xref:security-jdbc.adoc[Elytron JDBC]."
-msgstr "Você Instalou pelo menos uma extensão que fornece um `IdentityProvider` baseado no usename e no password, como o  link:security-jdbc.html[Elytron JDBC]."
+msgstr "Você instalou pelo menos uma extensão que fornece um `IdentityProvider` baseado no usename e no password, como o  link:security-jdbc.html[Elytron JDBC]."
 
 #. type: Title ==
 #: upstream/_guides/security-basic-authentication-howto.adoc:13
@@ -90,7 +90,7 @@ msgstr "Para obter informações sobre outros métodos que você pode utilizar p
 #. type: delimited block =
 #: upstream/_guides/security-basic-authentication-howto.adoc:43
 msgid "Configuring user names, secrets, and roles in the `application.properties` file is only suitable for testing scenarios.  If you are securing a production application, always use a database to store this information."
-msgstr "A configuração de nomes de username, secrets e roles no arquivo `application.properties` só é adequada para cenários de teste. Se estiver protegerndo uma aplicação em produção, utilize sempre uma base de dados para armazenar estas informações."
+msgstr "A configuração de nomes de username, secrets e roles no arquivo `application.properties` só é adequada para cenários de teste. Se estiver protegendo uma aplicação em produção, utilize sempre uma base de dados para armazenar estas informações."
 
 #. type: Title ==
 #: upstream/_guides/security-basic-authentication-howto.adoc:45
@@ -101,7 +101,7 @@ msgstr "Próximas etapas"
 #. type: Plain text
 #: upstream/_guides/security-basic-authentication-howto.adoc:48
 msgid "For a more detailed walk-through that shows you how to configure Basic authentication together with Jakarta Persistence for storing user credentials in a database, see the xref:security-basic-authentication-tutorial.adoc[Secure a Quarkus application with Basic authentication and Jakarta Persistence] guide."
-msgstr "Para obter um guia mais detalhado que mostra como configurar a autenticação básica juntamente com o Jakarta Persistence para armazenar credenciais de utilizador numa base de dados, consulte o guia  link:security-basic-authentication-tutorial.html[Proteger uma aplicação Quarkus com autenticação básica e o Jakarta Persistence]."
+msgstr "Para obter um guia mais detalhado que mostra como configurar a autenticação básica juntamente com o Jakarta Persistence para armazenar credenciais de usuário numa base de dados, consulte o guia  link:security-basic-authentication-tutorial.html[Proteger uma aplicação Quarkus com autenticação básica e o Jakarta Persistence]."
 
 #. type: Title ==
 #: upstream/_guides/security-basic-authentication-howto.adoc:49
@@ -122,7 +122,7 @@ msgstr "link:security-identity-providers.html[Fornecedores de identidade]"
 #. type: Plain text
 #: upstream/_guides/security-basic-authentication-howto.adoc:54
 msgid "xref:security-testing.adoc#configuring-user-information[Configuring User Information in application.properties]"
-msgstr "link:security-testing.html#configuring-user-information[Configurar as informações do usuario no application.properties]"
+msgstr "link:security-testing.html#configuring-user-information[Configurar as informações do usuário no application.properties]"
 
 #. type: Plain text
 #: upstream/_guides/security-basic-authentication-howto.adoc:54
