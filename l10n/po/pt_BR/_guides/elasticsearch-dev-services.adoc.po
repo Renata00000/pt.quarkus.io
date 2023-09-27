@@ -21,13 +21,12 @@ msgstr ""
 #. https://github.com/quarkusio/quarkus/tree/main/docs/src/main/asciidoc
 #. type: Title =
 #: upstream/_guides/elasticsearch-dev-services.adoc:6
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Dev Services for Elasticsearch"
 msgstr "Serviços de desenvolvimento para Elasticsearch"
 
 #. type: Plain text
 #: upstream/_guides/elasticsearch-dev-services.adoc:15
-#, fuzzy
 msgid "If any Elasticsearch-related extension is present (e.g. `quarkus-elasticsearch-rest-client` or `quarkus-hibernate-search-orm-elasticsearch`), Dev Services for Elasticsearch automatically starts an Elasticsearch server in dev mode and when running tests.  So, you don't have to start a server manually.  The application is configured automatically."
 msgstr "Se qualquer extensão relacionada com o Elasticsearch estiver presente (por exemplo, `quarkus-elasticsearch-rest-client` ou `quarkus-hibernate-search-orm-elasticsearch`), os Dev Services for Elasticsearch iniciam automaticamente um servidor Elasticsearch no modo de desenvolvimento e ao executar testes. Assim, não é necessário iniciar um servidor manualmente. A aplicação é configurada automaticamente."
 
