@@ -18,7 +18,7 @@ msgstr ""
 
 #. type: Title =
 #: upstream/_guides/security-basic-authentication-howto.adoc:2
-#, fuzzy, no-wrap
+#,no-wrap
 msgid "Enable Basic authentication"
 msgstr "Ativar a autenticação básica"
 
@@ -29,7 +29,7 @@ msgstr "Active  link:security-basic-authentication.html[a autenticação básica
 
 #. type: Title ==
 #: upstream/_guides/security-basic-authentication-howto.adoc:9
-#, fuzzy, no-wrap
+#,no-wrap
 msgid "Prerequisites"
 msgstr "Pré-requisitos"
 
@@ -40,13 +40,12 @@ msgstr "Você Instalou pelo menos uma extensão que fornece um `IdentityProvider
 
 #. type: Title ==
 #: upstream/_guides/security-basic-authentication-howto.adoc:13
-#, fuzzy, no-wrap
+#,no-wrap
 msgid "Procedure"
 msgstr "Procedimento"
 
 #. type: Plain text
 #: upstream/_guides/security-basic-authentication-howto.adoc:16
-#, fuzzy
 msgid "Enable Basic authentication by setting the `quarkus.http.auth.basic` property to `true`."
 msgstr "Ativar a autenticação básica definindo a propriedade `quarkus.http.auth.basic` para `true`."
 
@@ -95,7 +94,7 @@ msgstr "A configuração de nomes de username, secrets e roles no arquivo `appli
 
 #. type: Title ==
 #: upstream/_guides/security-basic-authentication-howto.adoc:45
-#, fuzzy, no-wrap
+#,no-wrap
 msgid "Next steps"
 msgstr "Próximas etapas"
 
@@ -106,19 +105,17 @@ msgstr "Para obter um guia mais detalhado que mostra como configurar a autentica
 
 #. type: Title ==
 #: upstream/_guides/security-basic-authentication-howto.adoc:49
-#, fuzzy, no-wrap
+#,no-wrap
 msgid "References"
 msgstr "Referências"
 
 #. type: Plain text
 #: upstream/_guides/security-basic-authentication-howto.adoc:52
-#, fuzzy
 msgid "xref:security-overview.adoc[Quarkus Security overview]"
 msgstr "link:security-overview.html[Visão geral do Quarkus Security]"
 
 #. type: Plain text
 #: upstream/_guides/security-basic-authentication-howto.adoc:53
-#, fuzzy
 msgid "xref:security-identity-providers.adoc[Identity Providers]"
 msgstr "link:security-identity-providers.html[Fornecedores de identidade]"
 
@@ -129,6 +126,5 @@ msgstr "link:security-testing.html#configuring-user-information[Configurar as in
 
 #. type: Plain text
 #: upstream/_guides/security-basic-authentication-howto.adoc:54
-#, fuzzy
 msgid "xref:security-basic-authentication.adoc[Basic authentication]"
 msgstr "link:security-basic-authentication.html[Autenticação básica]"
